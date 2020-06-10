@@ -23,11 +23,11 @@ class Circle{
   // set radius(newRadius){
   //   this.radius = newRadius;
   // }
-  // 
+  //
   // set diameter(newDiameter){
   //   this.radius = newDiameter / 2;
   // }
-  // 
+  //
   // set circumference(newCircumference){
   //   this.radius = newCircumference / Math.PI / 2 ;
   // }
