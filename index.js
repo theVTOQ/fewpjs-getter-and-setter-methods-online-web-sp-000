@@ -20,15 +20,15 @@ class Circle{
     return Math.PI * this.radius ** 2;
   }
 
-  set radius(newRadius){
-    this.radius = newRadius;
-  }
-
-  set diameter(newDiameter){
-    this.radius = newDiameter / 2;
-  }
-
-  set circumference(newCircumference){
-    this.radius = newCircumference / Math.PI / 2 ;
-  }
+  // set radius(newRadius){
+  //   this.radius = newRadius;
+  // }
+  // 
+  // set diameter(newDiameter){
+  //   this.radius = newDiameter / 2;
+  // }
+  // 
+  // set circumference(newCircumference){
+  //   this.radius = newCircumference / Math.PI / 2 ;
+  // }
 }
